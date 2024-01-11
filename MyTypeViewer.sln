@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTypeViewer", "MyTypeViewer\MyTypeViewer.csproj", "{7EAE512B-B365-4045-B304-4C050D84E659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalAssemblyReflection", "ExternalAssemblyReflection\ExternalAssemblyReflection.csproj", "{2A962E1F-03C2-482C-8CC8-7F6533DF23E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EAE512B-B365-4045-B304-4C050D84E659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EAE512B-B365-4045-B304-4C050D84E659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EAE512B-B365-4045-B304-4C050D84E659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EAE512B-B365-4045-B304-4C050D84E659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A962E1F-03C2-482C-8CC8-7F6533DF23E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A962E1F-03C2-482C-8CC8-7F6533DF23E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A962E1F-03C2-482C-8CC8-7F6533DF23E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A962E1F-03C2-482C-8CC8-7F6533DF23E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0838F6E2-3F4E-4AB6-AFCE-DDAF47481F5A}
+	EndGlobalSection
+EndGlobal
